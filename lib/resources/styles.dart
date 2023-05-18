@@ -4,22 +4,13 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'colors.dart';
 import 'fonts.dart';
 
-/////BLUE COLOR
-TextStyle blueExBold30 = TextStyle(
-    color: colorDarkBlue,
-    fontSize: 30.sp,
-    fontFamily: nunitoExBold
-);
+
 TextStyle blueSemBold20 = TextStyle(
     color: colorDarkBlue,
     fontSize: 20.sp,
     fontFamily: nunitoSemBold
 );
-TextStyle blueExBold20 = TextStyle(
-    color: colorDarkBlue,
-    fontSize: 20.sp,
-    fontFamily: nunitoExBold
-);
+
 TextStyle blueLightSemBold20 = TextStyle(
     color: colorTextLightBlue,
     fontSize: 20.sp,
@@ -31,7 +22,6 @@ TextStyle blueLightBold20 = TextStyle(
     fontFamily: nunitoBold
 );
 
-//////WHITE COLOR
 TextStyle whiteBold20 = TextStyle(
     color: Colors.white,
     fontSize: 20.sp,
@@ -43,7 +33,6 @@ TextStyle whiteSemBold16 = TextStyle(
     fontFamily: nunitoExBold
 );
 
-//////GREY COLOR
 TextStyle greyDarkBold28 = TextStyle(
     color: colorTextDarkGrey,
     fontSize: 28.sp,
